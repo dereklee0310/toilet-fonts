@@ -1,2 +1,6 @@
-# toilet-fonts
-Toilet builtin fonts demo.
+![huh](1.png)
+![huh](2.png)
+![huh](3.png)
+![huh](4.png)
+![huh](5.png)
+![huh](6.png)
